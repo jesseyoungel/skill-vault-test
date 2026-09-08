@@ -1,0 +1,14 @@
+{
+  "name": "jyoungel-skills",
+  "owner": {
+    "name": "Jesse Young El",
+    "url": "https://www.jyoungel.com"
+  },
+  "plugins": [
+    {
+      "name": "jyoungel",
+      "source": "./plugins/jyoungel",
+      "description": "J. Young El skills — private marketplace connectivity test"
+    }
+  ]
+}
