@@ -9,6 +9,11 @@
       "name": "jyoungel",
       "source": "./plugins/jyoungel",
       "description": "J. Young El skills — private marketplace connectivity test"
+    },
+    {
+      "name": "vaulttoken",
+      "source": "./plugins/vaulttoken",
+      "description": "Token prompt test — asks for a Skill Vault member token at install"
     }
   ]
 }

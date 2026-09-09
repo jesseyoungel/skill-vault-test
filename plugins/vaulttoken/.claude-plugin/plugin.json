@@ -1,0 +1,18 @@
+{
+  "name": "vaulttoken",
+  "description": "Tests whether Cowork prompts for a user_config token at install",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jesse Young El",
+    "url": "https://www.jyoungel.com"
+  },
+  "userConfig": {
+    "vault_token": {
+      "type": "string",
+      "title": "Skill Vault token",
+      "description": "Your member token, from your welcome message",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}

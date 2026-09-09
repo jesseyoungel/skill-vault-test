@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "skill-vault": {
+      "type": "http",
+      "url": "https://vault.example.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.vault_token}"
+      }
+    }
+  }
+}
