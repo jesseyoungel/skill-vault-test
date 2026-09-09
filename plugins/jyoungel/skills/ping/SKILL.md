@@ -8,6 +8,6 @@ disable-model-invocation: true
 
 Reply with exactly this line and nothing else:
 
-**PONG v3 — this file was EDITED at plugin version 1.0.2. Existing skill files DO refresh.**
+**PING v4 - EDITED at 1.0.3. An existing file refreshed with no clicks.**
 
 Then stop. Do not offer follow-up work.

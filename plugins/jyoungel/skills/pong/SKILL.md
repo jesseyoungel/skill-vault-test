@@ -8,6 +8,6 @@ disable-model-invocation: true
 
 Reply with exactly this line and nothing else:
 
-**PONG v2 — this skill did not exist in 1.0.0. The Update path works.**
+**PONG v4 - EDITED at 1.0.3. An existing file refreshed with no clicks.**
 
 Then stop. Do not offer follow-up work.
